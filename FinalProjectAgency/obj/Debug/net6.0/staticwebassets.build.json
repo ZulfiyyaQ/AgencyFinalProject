@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2XPSco4Tc8IGbJaZ9PHaPEMnS43vOI0ypjPNns0EOnI=",
+  "Hash": "z0IjHzGgNxxNqOdoBWv4OeXST2plx1Qljc3ywIQVNso=",
   "Source": "FinalProjectAgency",
   "BasePath": "_content/FinalProjectAgency",
   "Mode": "Default",
@@ -2786,6 +2786,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\map-image.png"
+    },
+    {
+      "Identity": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\a16ca005-6776-4b94-ba43-6f6274ea704f.jpg",
+      "SourceId": "FinalProjectAgency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\",
+      "BasePath": "_content/FinalProjectAgency",
+      "RelativePath": "img/portfolio/a16ca005-6776-4b94-ba43-6f6274ea704f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\portfolio\\a16ca005-6776-4b94-ba43-6f6274ea704f.jpg"
     },
     {
       "Identity": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\c963bab2-7bd1-4488-93dd-89e41d040969.jpg",

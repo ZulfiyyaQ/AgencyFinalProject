@@ -72,7 +72,7 @@ namespace FinalProjectAgency.Areas.Admin.Controllers
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home", new { Area = "" });
         }
-        public async Task<IActionResult> CreateRoles()
+        public async Task<IActionResult> CreateRoles()  //User=Zuzu Password=Zuzu1234;
         {
             await _roleManager.CreateAsync(new IdentityRole 
             { 

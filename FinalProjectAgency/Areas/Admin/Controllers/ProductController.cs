@@ -20,8 +20,9 @@ namespace FinalProjectAgency.Areas.Admin.Controllers
             _context = context;
             _env = env;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int page=1)
         {
+
             List<Product> product = await  _context.Products.Include(p=>p.Categories).ToListAsync();
             return View(product);
         }

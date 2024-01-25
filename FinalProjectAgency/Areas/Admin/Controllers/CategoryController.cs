@@ -96,5 +96,13 @@ namespace FinalProjectAgency.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        public async Task<IActionResult> Detail(int id)
+        {
+            if (id <= 0) return BadRequest();
+            Category existed = await _context.Categories.Include(p => p.Products).FirstOrDefaultAsync(p => p.Id == id);
+            if (existed is null) return NotFound();
+
+            return View(existed);
+        }
     }
 }
