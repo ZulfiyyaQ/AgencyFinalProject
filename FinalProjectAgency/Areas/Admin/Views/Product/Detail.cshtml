@@ -1,0 +1,26 @@
+﻿@model Product
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 >Detail</h4>
+                        <h4 class="card-title">Product</h4>
+                        <h4 class="card-description">Product</h4>
+                         <p class="py-1">
+                                   <img src="~/img/portfolio/@Model.Image" alt="image" />
+                                </p>
+                        <p >
+                            @Model.Name
+                        </p>
+                         <p >
+                            @Model.Categories.Name
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
