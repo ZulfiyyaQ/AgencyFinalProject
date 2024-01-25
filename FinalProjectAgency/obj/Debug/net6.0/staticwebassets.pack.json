@@ -1,0 +1,961 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProjectAgency.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalProjectAgency.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\documentation\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\documentation\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\Admin\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\css\\agency.css",
+      "PackagePath": "staticwebassets\\css\\agency.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\css\\agency.min.css",
+      "PackagePath": "staticwebassets\\css\\agency.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\logos\\creative-market.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\creative-market.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\logos\\designmodo.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\designmodo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\logos\\envato.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\envato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\logos\\themeforest.jpg",
+      "PackagePath": "staticwebassets\\img\\logos\\themeforest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\map-image.png",
+      "PackagePath": "staticwebassets\\img\\map-image.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\dreams-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\dreams-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\dreams.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\dreams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\escape-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\escape-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\escape.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\escape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\golden-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\golden-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\golden.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\golden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\roundicons-free.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\roundicons-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\roundicons.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\roundicons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\startup-framework-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\startup-framework-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\startup-framework.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\startup-framework.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\treehouse-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\treehouse-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\portfolio\\treehouse.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\treehouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\js\\agency.js",
+      "PackagePath": "staticwebassets\\js\\agency.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\js\\agency.min.js",
+      "PackagePath": "staticwebassets\\js\\agency.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\js\\contact_me.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\less\\agency.less",
+      "PackagePath": "staticwebassets\\less\\agency.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\less\\variables.less",
+      "PackagePath": "staticwebassets\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\scss\\agency.scss",
+      "PackagePath": "staticwebassets\\scss\\agency.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.08\\Desktop\\FinalProjectAgency\\FinalProjectAgency\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalProjectAgency.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FinalProjectAgency.props",
+      "PackagePath": "build\\FinalProjectAgency.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalProjectAgency.props",
+      "PackagePath": "buildMultiTargeting\\FinalProjectAgency.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FinalProjectAgency.props",
+      "PackagePath": "buildTransitive\\FinalProjectAgency.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

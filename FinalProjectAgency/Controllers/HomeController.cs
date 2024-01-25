@@ -1,6 +1,7 @@
 ﻿using FinalProjectAgency.DAL;
 using FinalProjectAgency.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace FinalProjectAgency.Controllers
@@ -15,7 +16,8 @@ namespace FinalProjectAgency.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            return View();
+            List<Product> product= await _context.Products.Include(p=>p.Categories).ToListAsync();
+            return View(product);
         }
     }
 }
